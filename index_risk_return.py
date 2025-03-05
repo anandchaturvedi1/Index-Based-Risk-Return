@@ -1,11 +1,4 @@
-"""
-===============================================================================
-By          : AC
-Date        : 2024-07-29
-Description : This script calculates the annualized risk and return based on the
-              specified index computation methodology and provided data.
-===============================================================================
-"""
+# This script calculates the annualized risk and return based on the specified index computation methodology and provided data.
 
 import pandas as pd
 import numpy as np
